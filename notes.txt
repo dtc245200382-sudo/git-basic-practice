@@ -1,0 +1,2 @@
+Ghi chu bai thuc hanh Git
+Da cap nhat ghi chu trong Bai 2
